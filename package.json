@@ -1,7 +1,7 @@
 {
   "name": "ai2-docs-generator",
   "version": "0.1.0",
-  "homepage": "https://github.com/TechHamara/Ai2-Doc-Generator",
+  "homepage": "https://TechHamara.github.io/Ai2-Doc-Generator",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
