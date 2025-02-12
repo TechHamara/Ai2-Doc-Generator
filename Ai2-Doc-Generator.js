@@ -4,8 +4,8 @@ const nextConfig = {
     domains: ["placekitten.com"],
   },
   output: "export",
-  assetPrefix: process.env.NODE_ENV === "production" ? "/{repo-name}" : "",
-  basePath: process.env.NODE_ENV === "production" ? "/{repo-name}" : "",
+  assetPrefix: process.env.NODE_ENV === "production" ? "/{Ai2-Doc-Generator}" : "",
+  basePath: process.env.NODE_ENV === "production" ? "/{Ai2-Doc-Generator}" : "",
 }
 
 module.exports = nextConfig
